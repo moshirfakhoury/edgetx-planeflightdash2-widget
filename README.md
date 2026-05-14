@@ -29,3 +29,10 @@ FlightDash is designed for pilots who want a highly visual and easy-to-read tele
 - Smooth animated aircraft bank-angle visualization
 - Modern glass-cockpit inspired interface
 - Clean segmented bar graphics and gauge styling
+
+**Installation**
+- Download the ZIP file
+- Extract the contents of the ZIP file
+- Locate the last folder named fltDashP1 (it contains main.lua and a few .png image files)
+- Copy this fltDashP1 folder only
+- Paste the folder into your SDCard/WIDGETS directory
