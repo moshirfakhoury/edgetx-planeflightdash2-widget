@@ -36,3 +36,12 @@ FlightDash is designed for pilots who want a highly visual and easy-to-read tele
 - Locate the last folder named fltDashP1 (it contains main.lua and a few .png image files)
 - Copy this fltDashP1 folder only
 - Paste the folder into your SDCard/WIDGETS directory
+
+
+<img width="482" height="274" alt="image" src="https://github.com/user-attachments/assets/c5263866-fc3a-40b1-a46a-474a96aacc18" />
+
+<img width="479" height="274" alt="image" src="https://github.com/user-attachments/assets/28869648-8429-4a8a-a542-dc423c7bca64" />
+
+<img width="481" height="273" alt="image" src="https://github.com/user-attachments/assets/90ef8ea9-b53f-4f88-b9e6-88c001401516" />
+
+
